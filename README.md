@@ -36,3 +36,7 @@ But, because the service restart requires elevated permissions, better create sh
 - ```disconnectVPN.bat.lnk```
 
 And then just call them via ```Run```, or have them on your desktop if you like
+
+
+# WARNING
+This approach will expose you user/password in clear.
